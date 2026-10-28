@@ -1,0 +1,16 @@
+# Executables
+blog_aggregator
+
+# Environment and secrets
+.env
+.env.*
+
+# Go build artifacts
+*.exe
+*.test
+*.out
+
+# IDE and OS files
+.vscode/
+.idea/
+.DS_Store
